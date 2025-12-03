@@ -1,0 +1,11 @@
+Date,Region,Category,Product,Sales,Revenue
+2024-01-01,North,Electronics,Phone,120,60000
+2024-01-01,South,Electronics,Tablet,80,40000
+2024-01-01,East,Furniture,Chair,50,15000
+2024-02-01,North,Electronics,Phone,150,75000
+2024-02-01,South,Furniture,Table,40,20000
+2024-03-01,East,Electronics,Headphone,200,30000
+2024-03-01,West,Furniture,Chair,70,21000
+2024-04-01,North,Electronics,Phone,130,65000
+2024-04-01,South,Clothing,Shirt,300,15000
+2024-05-01,East,Clothing,Shirt,250,12500
